@@ -26,9 +26,9 @@ flowchart LR
 ```
 
 > [!check] Kural kapsamı
-> - Yeni özellikler ✓
-> - Hata düzeltmeleri (önce hatayı repro eden test, sonra fix) ✓
-> - Mevcut kodda davranış değişiklikleri ✓
+> - Yeni özellikler
+> - Hata düzeltmeleri (önce hatayı repro eden test, sonra fix)
+> - Mevcut kodda davranış değişiklikleri
 >
 > İstisna: saf yapılandırma düzenlemeleri, atılabilecek prototipler.
 

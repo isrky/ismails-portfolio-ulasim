@@ -16,8 +16,7 @@ updated: 2026-04-17
 
 > [!info] Bu belgeler kimin için?
 > Bu **vitrin** dokümantasyonu geliştiriciler için değil; **CTO'lar, teknik karar vericiler, işe alım uzmanları ve portföy inceleyenler** içindir. Projeyi üç farklı zoom seviyesinde tanıtır: ürün, mühendislik, kişi.
->
-> Geliştiriciye yönelik teknik dokümantasyon için `docs/` klasörüne bakın.
+
 
 > [!quote] Kısa öykü
 > Yaklaşık yedi ay önce öğrenci arkadaşlarımın Denizli'nin akıllı ulaşım portalının ne kadar kullanışsız olduğundan şikayet etmesiyle kendime bir soru sordum: **Sadece şikayet etmek yerine, bir 11. sınıf öğrencisi olarak bu sistemi baştan yazabilir miydim?** Bugün geldiğim nokta, bu belgenin konusudur.
@@ -29,11 +28,11 @@ updated: 2026-04-17
 
 ---
 
-## 🚏 Tek Cümlelik Özet
+## Tek Cümlelik Özet
 
 **Denizli halkının toplu taşımaya ulaşmak için her gün kullanabileceği, resmi sistemden daha hızlı ve daha sade bir alternatif arayüz.**
 
-## 🎯 Hızlı Bakış
+## Hızlı Bakış
 
 | Konu | Kısaca |
 |------|--------|
@@ -51,7 +50,7 @@ updated: 2026-04-17
 
 ---
 
-## 📖 İçindekiler
+## İçindekiler
 
 ### 1. Ürün
 - [[01 Proje Özeti]] — 60 saniyede proje
@@ -75,7 +74,7 @@ updated: 2026-04-17
 
 ---
 
-## 💬 Bir Dakikalık Sunum
+## Bir Dakikalık Sunum
 
 > [!quote]
 > Denizli Akıllı Ulaşım Portalı, resmi ulaşım servisinin önüne konumlandırılmış, önbellekleyen ve zenginleştiren bir **uç (edge) proxy** üzerine kurulu modern bir React uygulamasıdır.
@@ -87,11 +86,3 @@ updated: 2026-04-17
 > Aynı React kod tabanı **Capacitor 8** ile Android'e paketlenir — paralel iki kod tabanı yok, UI eşitliği garantili.
 >
 > Test altyapısı **Vitest workspaces** (frontend + node + `workerd`) ve **Playwright** üzerine kuruludur. Her davranış değişikliği **başarısız test → yeşil test → refaktör** döngüsünden geçer.
-
----
-
-## 🔗 Dış Bağlantılar
-
-- `README.md` — kısa Türkçe başlangıç rehberi
-- `AGENTS.md` — yapay zekâ kodlama ajanları için kurallar
-- `docs/` — geliştirici dokümantasyon kasası

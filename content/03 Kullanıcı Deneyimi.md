@@ -25,55 +25,55 @@ updated: 2026-04-17
 
 ## Ana Ekranlar
 
-### 🏠 Ana Sayfa
+### Ana Sayfa
 - Favori duraklar ve hatlar bir bakışta
 - Sistem durumu ve hızlı kısayollar
 - Son aranan konumlar
 
-### 🗺 Harita
+### Harita
 - Leaflet tabanlı etkileşimli harita
 - Canlı araç konumları
 - Durak tıklama → anlık varış bilgisi
 - Akıllı küme (cluster) optimizasyonu
 
-### 🚏 Duraklar
+### Duraklar
 - Arama ve konuma göre sıralama
 - Her durakta o an yaklaşan araçlar
 - Favoriye ekleme tek tıkla
 
-### 🚍 Hatlar
+### Hatlar
 - Hat listesi + arama
 - Hat detayında güzergah çizgisi, durak sırası, ortalama sefer süresi
 
-### 🧭 Nasıl Giderim?
+### Nasıl Giderim?
 - Kalkış ve varış noktası seçimi
 - Çok modlu (yürüme + otobüs) önerilen güzergahlar
 - Aktarma sayısı, yürüme mesafesi, toplam süre
 - Canlı veri varsa bekleme süreleri otomatik güncellenir
 
-### 💳 Kart
+### Kart
 - Ulaşım kartı bakiye sorgulama
 - Birden fazla kart kaydetme
 - Otomatik bakiye kontrolü bildirimleri
 
-### ⭐ Favoriler
+### Favoriler
 - Sık kullanılan durak ve hatlar
 - Hızlı erişim kısayolları
 
-### 💊 Nöbetçi Eczaneler
+### Nöbetçi Eczaneler
 - Günün eczaneleri, ilçe bazlı filtre
 - Adres + telefon + haritada konum
 
-### ⛽ Dolum Noktaları
+### Dolum Noktaları
 - Bakiye yüklenebilecek noktaların haritası
 - Konuma en yakından sıralı liste
 
-### 📝 Geri Bildirim
+### Geri Bildirim
 - Tek ekranda dört kategori: öneri, hata, şikâyet, diğer
 - Opsiyonel isim/e-posta
 - Spam korumalı (IP bazlı hız sınırlama)
 
-### 📊 İstatistikler
+### İstatistikler
 - Basit grafiklerle şehir içi hareketlilik
 - Recharts tabanlı, erişilebilir gösterim
 
