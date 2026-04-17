@@ -1,6 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+/**
+ * Quartz 4 Layout — Denizli Akıllı Ulaşım Portalı · Vitrin
+ *
+ * Presentation vault layout. The sidebar stays light — this is a portfolio
+ * surface, not a wiki — but the Graph + Backlinks + Explorer combo showcases
+ * the vault's inter-linked structure nicely for reviewers.
+ */
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -8,8 +16,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Canlı Uygulama": "https://ulasim20.com",
+      LinkedIn: "https://www.linkedin.com/in/ismail-sarikaya-a637463b3/",
+      GitHub: "https://github.com/isrky",
+      İletişim: "mailto:ismailsrky@disroot.org",
     },
   }),
 }
@@ -38,16 +48,30 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Vitrin",
+      folderDefaultState: "open",
+      useSavedState: true,
+    }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        depth: 1,
+        scale: 1.1,
+        showTags: false,
+      },
+      globalGraph: {
+        scale: 0.9,
+        showTags: true,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -62,7 +86,11 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Vitrin",
+      folderDefaultState: "open",
+      useSavedState: true,
+    }),
   ],
   right: [],
 }
