@@ -1,5 +1,5 @@
 ---
-title: 11 — Süreç ve İşbirliği
+title: 11 Süreç ve İşbirliği
 aliases: [Process, Collaboration, Workflow]
 tags: [vitrin, süreç, işbirliği, ai, devbox]
 dil: tr

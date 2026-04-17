@@ -1,5 +1,5 @@
 ---
-title: 05 — Teknoloji Seçimleri
+title: 05 Teknoloji Seçimleri
 aliases: [Tech Stack, Teknoloji Kararları]
 tags: [vitrin, teknoloji, stack, kararlar]
 dil: tr

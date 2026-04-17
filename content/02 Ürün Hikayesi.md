@@ -1,5 +1,5 @@
 ---
-title: 02 — Ürün Hikayesi
+title: 02 Ürün Hikayesi
 aliases: [Product Story, Ürün Vizyonu, Hikaye]
 tags: [vitrin, ürün, hikaye, vizyon, yolculuk]
 dil: tr

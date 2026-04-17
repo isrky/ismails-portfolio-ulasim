@@ -1,5 +1,5 @@
 ---
-title: 12 — Sayılarla Proje
+title: 12 Sayılarla Proje
 aliases: [By the Numbers, Metrics, Ölçümler]
 tags: [vitrin, metrikler, sayılar, istatistik]
 dil: tr

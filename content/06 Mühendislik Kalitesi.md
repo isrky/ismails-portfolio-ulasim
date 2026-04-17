@@ -1,5 +1,5 @@
 ---
-title: 06 — Mühendislik Kalitesi
+title: 06 Mühendislik Kalitesi
 aliases: [Quality, TDD, Testing Discipline]
 tags: [vitrin, test, tdd, kalite, ci]
 dil: tr

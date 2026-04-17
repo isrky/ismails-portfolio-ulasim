@@ -1,5 +1,5 @@
 ---
-title: 03 — Kullanıcı Deneyimi
+title: 03 Kullanıcı Deneyimi
 aliases: [UX, Kullanıcı Deneyimi, Arayüz]
 tags: [vitrin, ux, ui, tasarım]
 dil: tr

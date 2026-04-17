@@ -1,5 +1,5 @@
 ---
-title: 08 — Güvenlik ve Gizlilik
+title: 08 Güvenlik ve Gizlilik
 aliases: [Security, Privacy, Gizlilik]
 tags: [vitrin, güvenlik, gizlilik, kvkk, gdpr]
 dil: tr

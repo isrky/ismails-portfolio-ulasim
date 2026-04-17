@@ -1,5 +1,5 @@
 ---
-title: 07 — Performans ve Ölçek
+title: 07 Performans ve Ölçek
 aliases: [Performance, Scale, Uç Bilişim]
 tags: [vitrin, performans, ölçek, edge, cloudflare]
 dil: tr

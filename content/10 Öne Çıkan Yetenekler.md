@@ -1,5 +1,5 @@
 ---
-title: 10 — Öne Çıkan Yetenekler
+title: 10 Öne Çıkan Yetenekler
 aliases: [Skills, Yetkinlikler, Highlighted Skills]
 tags: [vitrin, yetenekler, skills, portföy]
 dil: tr

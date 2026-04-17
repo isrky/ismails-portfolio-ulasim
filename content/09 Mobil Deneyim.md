@@ -1,5 +1,5 @@
 ---
-title: 09 — Mobil Deneyim
+title: 09 Mobil Deneyim
 aliases: [Mobile, Android, Capacitor Story]
 tags: [vitrin, mobil, android, capacitor]
 dil: tr

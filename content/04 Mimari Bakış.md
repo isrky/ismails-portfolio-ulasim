@@ -1,5 +1,5 @@
 ---
-title: 04 — Mimari Bakış
+title: 04 Mimari Bakış
 aliases: [Mimari, Architecture, Sistem Tasarımı]
 tags: [vitrin, mimari, architecture, edge]
 dil: tr

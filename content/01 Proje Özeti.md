@@ -1,5 +1,5 @@
 ---
-title: 01 — Proje Özeti
+title: 01 Proje Özeti
 aliases: [Executive Summary, Proje Özeti]
 tags: [vitrin, özet, yönetici-özeti]
 dil: tr
